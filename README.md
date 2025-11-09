@@ -42,7 +42,7 @@ Cada alumno o equipo creará **una rama por criterio**:
 
 | Criterio | Nombre rama | Documento principal |
 |-----------|-------------------------|----------------------|
-| a | `tarea/thd-identificacion` | `/docs/00_THD_Identificacion.md` |
+| a | `tarea/thd-identificacion` | `/docs/00_THD_Identificacion.odt` |
 | b | `tarea/thd-productos-servicios` | `/tareas/tarea_b_productos_servicios.md` |
 | c | `tarea/sostenibilidad` | `/tareas/tarea_c_sostenibilidad.md` |
 | d | `tarea/nuevos-mercados` | `/tareas/tarea_d_nuevos_mercados.md` |
