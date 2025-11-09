@@ -49,7 +49,7 @@ proyecto_thd_metricaV3/
     │   └── index.html
     └── api/
         └── ejemplo.php
-
+```
 
 
 ## 🚀 Flujo de trabajo (ramas)
