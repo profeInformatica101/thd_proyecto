@@ -34,13 +34,6 @@ proyecto_thd_metricaV3/
 │   └── tarea_g_informe_final.md
 │
 ├── docs/                      # Documentación según Métrica V3
-│   ├── metrica/
-│   │   ├── 01_planificacion.md
-│   │   ├── 02_analisis.md
-│   │   ├── 03_diseno.md
-│   │   ├── 04_construccion.md
-│   │   ├── 05_pruebas.md
-│   │   └── 06_implantacion.md
 │   ├── 00_THD_Identificacion.md
 │   └── INFORME_FINAL.md
 │
