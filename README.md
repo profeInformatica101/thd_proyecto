@@ -47,9 +47,9 @@ proyecto_thd_metricaV3/
 
 ## 🚀 Flujo de trabajo (ramas)
 
-Cada alumno o equipo creará **una rama por criterio**, documentando el avance y abriendo un **Pull Request (PR)** por cada uno.
+Cada alumno o equipo creará **una rama por criterio**:
 
-| Criterio | Nombre sugerido de rama | Documento principal |
+| Criterio | Nombre rama | Documento principal |
 |-----------|-------------------------|----------------------|
 | a | `tarea/thd-identificacion` | `/docs/00_THD_Identificacion.md` |
 | b | `tarea/thd-productos-servicios` | `/tareas/tarea_b_productos_servicios.md` |
@@ -59,13 +59,4 @@ Cada alumno o equipo creará **una rama por criterio**, documentando el avance y
 | f | `tarea/mejoras-it-ot` | `/tareas/tarea_f_mejoras_it_ot.md` |
 | g | `tarea/informe-final` | `/docs/INFORME_FINAL.md` |
 
-🔖 Convención: en trabajo grupal usar `feature/equipoX-criterio`.
 
----
-## 🧭 Tareas principales
-
-Cada archivo dentro de `/tareas/` contendrá:
-- Contexto del criterio.
-- Actividad práctica (fork, rama, mini desarrollo, reflexión o informe).
-- Entregable y formato.
-- Indicadores observables para evaluación.
